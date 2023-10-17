@@ -1,0 +1,20 @@
+.App {
+  background-color: rgb(202, 227, 246);
+  /* width: 50%; */
+}
+.button1 {
+background-color: rgb(249, 231, 231);
+margin-left: 4px;
+}
+
+.filter{
+  margin-left: 4px;
+}
+.nowrap{
+  white-space:nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.title{
+  text-align: center;
+}
